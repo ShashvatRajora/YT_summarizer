@@ -11,7 +11,7 @@ This project analyzes YouTube data to provide insights into video performance an
 ## Prerequisites
 - Python 3.x
 - Jupyter Notebook
-- Required libraries: pandas, numpy, matplotlib, seaborn (install using `pip install -r requirements.txt`)
+- Required libraries: pandas, numpy, pytube , moviepy (install using `pip install -r requirements.txt`)
 
 ## Usage
 1. Clone the repository:  
